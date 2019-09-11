@@ -4,7 +4,7 @@ Mean filter is a simple method used in image processing to reduce noise in image
 > This simple codes are executed to test the performance diffrences
 > between CPU and GPU.
 
-Performance of the filter calculated on time based and te
+Performance of the filter calculated on time based and tested with diffrent sizes of window size. 
 
 ![Original Image](https://raw.githubusercontent.com/ThilinaPrasad/Image-Mean-Filter-CUDA/master/pic_640.bmp)
 Original(noisy image)
@@ -14,6 +14,6 @@ GPU executed filtered Image
 ![enter image description here](https://raw.githubusercontent.com/ThilinaPrasad/Image-Mean-Filter-CUDA/master/CPU_out_640.bmp)
 CPU executed filtered Image
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTI3MDI2NSwtNjY5MTUxODgwLC0xOT
+eyJoaXN0b3J5IjpbLTEwNDYyODUyNywtNjY5MTUxODgwLC0xOT
 U0MDczNjM4XX0=
 -->
